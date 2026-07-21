@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude personal files
+memory/
+.cache/
+.rtk/
